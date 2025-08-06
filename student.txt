@@ -1,0 +1,4 @@
+student name: sravanthi
+roll no:25
+group : bsc
+age : 20
